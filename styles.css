@@ -2712,7 +2712,7 @@ html {
     grid-column-gap: 29px;
     grid-row-gap: 16px;
     grid-template: "."
-    / 1.5fr 1.5fr 1.5fr 1.5fr;
+    / 1.5fr 1.5fr;
     grid-auto-columns: 1fr;
     width: 50%;
     display: grid;
